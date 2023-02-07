@@ -1,1 +1,5 @@
 w3school.com
+colorhun.com
+html dm
+browser default css
+plugin:pesticide for chrome
